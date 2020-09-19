@@ -1,6 +1,5 @@
-===========================================================================================================================
-                     UNIX SHELL IMPLEMENTATION IN C
-=========================================================================================================================== 
+
+# UNIX SHELL IMPLEMENTATION IN C
 This program simulates the working of command line interface in Unix-like environment. Implemented Functionalities are as under:
 
 1. Execute all the External commands (ls, clear, vi etc.)
